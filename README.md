@@ -1,7 +1,6 @@
 ## ⎣ ag-script ⎤
 ### Driver
-The script only works on the chrome driver. For proper operation,
-the driver must be placed in the folder with the script.
+The script only works on the chrome driver. For proper operation, the driver must be placed in the folder with the script.
 
 Download the appropriate driver from the [link](https://chromedriver.chromium.org/downloads).
 ### PIP
